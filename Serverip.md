@@ -2,6 +2,6 @@
 
 __SmpGeorge127.aternos.me__
 
-**[OR click this instead to copy](Smpgeorge127.aternos.me/Copy)
+### [OR click this instead to copy](Smpgeorge127.aternos.me\Copy)
 
 
