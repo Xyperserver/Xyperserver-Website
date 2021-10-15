@@ -16,7 +16,7 @@ You can join Are Discord server for wiki and info's.
 
 **Bold** and _Italic_ and `Code` text
 
-[Server Ip](Xyperserver/Xyperserver-Website/gh-pages/Serverip.md) and ![Image](src)
+[Server Ip](https//:xyperserver.github.io/xyperserver-website/serverip) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
